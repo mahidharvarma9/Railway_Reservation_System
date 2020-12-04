@@ -1,2 +1,4 @@
-This template was made by Colorlib (https://colorlib.com)
-Please visit our website for more awesome templates, themes and tools. 
+# Railway reservation system
+
+
+The aim of this project is to build a webpage for a restaurant. Technologies used: HTML, PHP, CSS, Javascript, PostgreSQL database.
