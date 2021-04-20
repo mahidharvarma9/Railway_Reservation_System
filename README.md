@@ -5,4 +5,4 @@ The aim of this project is to build a a system which supports booking of train t
 Technologies used: HTML, PHP, CSS, JavaScript, SQL .
 
 
-![](img/homepage.png)
+![](img/homepage.jpeg)
